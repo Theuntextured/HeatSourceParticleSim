@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79167F35-CBC5-4218-94DC-A824F2E59A8C}|HeatSourceParticleSim\\HeatSourceParticleSim.vcxproj|C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\HeatSourceParticleSim\\GlobalVariable.cuh||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79167F35-CBC5-4218-94DC-A824F2E59A8C}|HeatSourceParticleSim\\HeatSourceParticleSim.vcxproj|solutionrelative:HeatSourceParticleSim\\GlobalVariable.cuh||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79167F35-CBC5-4218-94DC-A824F2E59A8C}|HeatSourceParticleSim\\HeatSourceParticleSim.vcxproj|C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\HeatSourceParticleSim\\CommonMacros.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{79167F35-CBC5-4218-94DC-A824F2E59A8C}|HeatSourceParticleSim\\HeatSourceParticleSim.vcxproj|solutionrelative:HeatSourceParticleSim\\CommonMacros.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79167F35-CBC5-4218-94DC-A824F2E59A8C}|HeatSourceParticleSim\\HeatSourceParticleSim.vcxproj|C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\HeatSourceParticleSim\\CommonIncludes.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{79167F35-CBC5-4218-94DC-A824F2E59A8C}|HeatSourceParticleSim\\HeatSourceParticleSim.vcxproj|solutionrelative:HeatSourceParticleSim\\CommonIncludes.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79167F35-CBC5-4218-94DC-A824F2E59A8C}|HeatSourceParticleSim\\HeatSourceParticleSim.vcxproj|C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\HeatSourceParticleSim\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{79167F35-CBC5-4218-94DC-A824F2E59A8C}|HeatSourceParticleSim\\HeatSourceParticleSim.vcxproj|solutionrelative:HeatSourceParticleSim\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\HeatSourceParticleSim\\kernel.cu",
+              "RelativeDocumentMoniker": "HeatSourceParticleSim\\kernel.cu",
+              "ToolTip": "C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\HeatSourceParticleSim\\kernel.cu",
+              "RelativeToolTip": "HeatSourceParticleSim\\kernel.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-07T13:56:20.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommonMacros.cuh",
+              "DocumentMoniker": "C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\HeatSourceParticleSim\\CommonMacros.cuh",
+              "RelativeDocumentMoniker": "HeatSourceParticleSim\\CommonMacros.cuh",
+              "ToolTip": "C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\HeatSourceParticleSim\\CommonMacros.cuh",
+              "RelativeToolTip": "HeatSourceParticleSim\\CommonMacros.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-10T19:28:37.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalVariable.cuh",
+              "DocumentMoniker": "C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\HeatSourceParticleSim\\GlobalVariable.cuh",
+              "RelativeDocumentMoniker": "HeatSourceParticleSim\\GlobalVariable.cuh",
+              "ToolTip": "C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\HeatSourceParticleSim\\GlobalVariable.cuh",
+              "RelativeToolTip": "HeatSourceParticleSim\\GlobalVariable.cuh",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAhwHEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-10T18:59:24.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommonIncludes.cuh",
+              "DocumentMoniker": "C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\HeatSourceParticleSim\\CommonIncludes.cuh",
+              "RelativeDocumentMoniker": "HeatSourceParticleSim\\CommonIncludes.cuh",
+              "ToolTip": "C:\\Users\\theun\\source\\repos\\HeatSourceParticleSim\\HeatSourceParticleSim\\CommonIncludes.cuh",
+              "RelativeToolTip": "HeatSourceParticleSim\\CommonIncludes.cuh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-10T18:55:57.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

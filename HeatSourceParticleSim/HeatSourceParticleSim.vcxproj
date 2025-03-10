@@ -77,16 +77,12 @@
     </CudaCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CudaCompile Include="Engine.cu" />
     <CudaCompile Include="kernel.cu" />
-    <CudaCompile Include="Particle.cu" />
-    <CudaCompile Include="WindowManager.cu" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Engine.cuh" />
-    <ClInclude Include="Particle.cuh" />
-    <ClInclude Include="Settings.cuh" />
-    <ClInclude Include="WindowManager.cuh" />
+    <ClInclude Include="CommonIncludes.cuh" />
+    <ClInclude Include="CommonMacros.cuh" />
+    <ClInclude Include="GlobalVariable.cuh" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
